@@ -25,3 +25,15 @@ Mot de passe : Mot de passe d√©fini pendant la configuration de la base de donn√
 
 ______
 
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/ac12b877-9812-449d-ba9a-cfdab9ca279f)
+
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/03207469-4753-4a12-8ce5-4a3f4a553fa5)
+
+
+
+
+
+
+
+
+
