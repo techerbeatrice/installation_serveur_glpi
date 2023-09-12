@@ -29,6 +29,19 @@ ______
 
 ![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/03207469-4753-4a12-8ce5-4a3f4a553fa5)
 
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/52416e07-9f2f-464c-a7f0-87001b2808ad)
+
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/88786769-4539-4fca-8584-53cc431399d6)
+
+
+
+
+
+
+
+
+
+
 
 
 
