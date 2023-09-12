@@ -22,22 +22,22 @@ Configuration de la base de données MariaDB :
 serveur SQL : 127.0.0.1  
 utilisateur : glpi  
 Mot de passe : Mot de passe défini pendant la configuration de la base de données pour le compte glpi  
-
-______
-
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/ac12b877-9812-449d-ba9a-cfdab9ca279f)
-
 __________
 
-**Hyperviseur avec ip fixe**  
+**VM GLPI avec ip fixe**  
 
 ![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/ba007515-a6a3-4b21-bd91-397555ab0c49)
 
 _______
 
-**ping de la machine cliente vers l'hyperviseur**
+**ping de la machine cliente vers ubuntu_server pour vérifier que la configuration réseau est bonne**
 
 ![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/de3d1470-b916-437e-bf72-f4555f631af7)
+
+_________
+
+Sur la machine cliente, dans un navigateur web : l'adresse http://172.20.0.10/glpi
+
 
 
 
