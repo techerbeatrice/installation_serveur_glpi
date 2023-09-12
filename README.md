@@ -26,18 +26,22 @@ __________
 
 **VM GLPI avec ip fixe**  
 
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/ba007515-a6a3-4b21-bd91-397555ab0c49)
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/019df1bb-b3cb-4e27-a0eb-5d4eb01eb4cb)
 
 _______
 
 **ping de la machine cliente vers ubuntu_server pour vérifier que la configuration réseau est bonne**
 
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/de3d1470-b916-437e-bf72-f4555f631af7)
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/24d01893-6ed0-4739-ac43-69e917d87fee)
 
 _________
 
-Sur la machine cliente, dans un navigateur web : l'adresse http://172.20.0.10/glpi
+Sur la machine cliente, dans un navigateur web : l'adresse http://172.20.0.10/glpi   
 
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/8b368930-9027-4920-8cf3-52321cfc6e39)
+
+
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/2cb43f24-caa1-48af-9e36-e6b497eaba26)
 
 
 
