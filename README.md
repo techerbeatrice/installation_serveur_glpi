@@ -27,11 +27,18 @@ ______
 
 ![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/ac12b877-9812-449d-ba9a-cfdab9ca279f)
 
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/03207469-4753-4a12-8ce5-4a3f4a553fa5)
+__________
 
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/52416e07-9f2f-464c-a7f0-87001b2808ad)
+**Hyperviseur avec ip fixe**  
 
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/88786769-4539-4fca-8584-53cc431399d6)
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/ba007515-a6a3-4b21-bd91-397555ab0c49)
+
+_______
+
+**ping de la machine cliente vers l'hyperviseur**
+
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/de3d1470-b916-437e-bf72-f4555f631af7)
+
 
 
 
