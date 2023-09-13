@@ -36,7 +36,7 @@ _______
 
 _________
 
-Sur la machine cliente, dans un navigateur web : l'adresse http://172.20.0.10/glpi   
+Sur la machine cliente, dans un navigateur web : l'adresse http://172.20.0.13/glpi   
 
 ![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/8b368930-9027-4920-8cf3-52321cfc6e39)
 
