@@ -24,12 +24,13 @@ utilisateur : glpi
 Mot de passe : Mot de passe défini pendant la configuration de la base de données pour le compte glpi  
 __________
 
+**Installation**  
 ![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/ace1b2fa-198e-4234-8636-9f60119138f1)
 
 
 **VM GLPI avec ip fixe**  
 
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/019df1bb-b3cb-4e27-a0eb-5d4eb01eb4cb)
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/4c1a4355-a92f-4399-9be5-b9f875f7aa05)
 
 _______
 
