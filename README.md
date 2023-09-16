@@ -30,7 +30,7 @@ __________
 
 **VM GLPI avec ip fixe**  
 
-![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/4c1a4355-a92f-4399-9be5-b9f875f7aa05)
+![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/473f12ff-1e76-484b-94d1-ff5bfbbc6ec1)
 
 _______
 
