@@ -34,7 +34,7 @@ __________
 
 _______
 
-**ping de la machine cliente vers ubuntu_server pour vérifier que la configuration réseau est bonne**
+**ping de la machine cliente vers glpi-server pour vérifier que la configuration réseau est bonne**
 
 ![image](https://github.com/techerbeatrice/installation_serveur_glpi/assets/138071140/24d01893-6ed0-4739-ac43-69e917d87fee)
 
